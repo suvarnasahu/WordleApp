@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wordle</string>
+    <string name="start">The word is quite </string>
+    <string name="word">It\'s a word</string>
+    <string name="notword">Not a Word</string>
+
+</resources>
